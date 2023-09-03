@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Sep 2023 17:32:52 at https://codervent.com/snacked/demo/ltr/ecommerce-orders.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codervent.com/snacked/demo/ltr/ecommerce-orders.html -O1 "C:\My Web Sites\admindashboad" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/1.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/2.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/3.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/4.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/5.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/6.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/7.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+17:40:12	Error: 	"Not Found" (404) at link https://codervent.com/snacked/demo/ltr/assets/images/bg-themes/8.png (from https://codervent.com/snacked/demo/ltr/assets/css/header-colors.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 24 seconds : 754 links scanned, 744 files written (67441515 bytes overall) [60467183 bytes received at 136187 bytes/sec], 9501900 bytes transferred using HTTP compression in 153 files, ratio 24%, 9.6 requests per connection
+(8 errors, 0 warnings, 0 messages)
